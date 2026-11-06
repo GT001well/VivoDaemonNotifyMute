@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vivo 通知静音</string>
+    <string name="module_desc">屏蔽 vivo daemonService 的系统数据空间损坏通知（10011/10012）</string>
+</resources>
